@@ -1,0 +1,6 @@
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe.config
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.pdb
