@@ -1,0 +1,6 @@
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb
