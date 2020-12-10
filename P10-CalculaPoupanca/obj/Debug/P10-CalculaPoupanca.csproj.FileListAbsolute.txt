@@ -1,0 +1,7 @@
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.exe.config
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.exe
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.pdb
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.csprojAssemblyReference.cache
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.exe
+C:\Users\cynti\Desktop\workspace\personal\helloWorld-CSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.pdb
